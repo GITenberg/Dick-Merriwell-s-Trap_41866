@@ -1,0 +1,37 @@
+_repo: Dick-Merriwell-s-Trap_41866
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41866-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Patten, George William
+    - Patten, William G. (William Gilbert)
+    - Patten, William Gilbert
+    - Wilder, William West
+    - Patten, Gilbert
+    - Wilder, William W. (William West)
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: http://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2013-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Football -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mystery fiction'
+title: Dick Merriwell's Trap; Or, The Chap Who Bungled
+url: http://www.gutenberg.org/ebooks/41866
